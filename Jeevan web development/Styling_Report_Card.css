@@ -1,0 +1,18 @@
+table, th, td{
+    border: 3.5px groove rgb(12, 58, 225);
+}
+
+table{
+    margin: auto;
+    width: 70%;
+}
+
+caption{
+
+color: rgb(11, 126, 11);
+font-family: Bradley Hand;
+width: 80%;
+font-size: x-large;
+text-align: center;
+margin: 20px;
+}

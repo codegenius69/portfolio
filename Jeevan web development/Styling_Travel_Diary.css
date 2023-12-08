@@ -1,0 +1,44 @@
+body{
+    background-image: url(hand-painted-watercolor-abstract-watercolor-background_23-2149005675.avif);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    background-position:center ;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+h1{
+    color: rgb(255, 123, 28);
+    font-family:'Bungee Inline', cursive;
+    font-size: xxx-large;
+}
+
+.section{
+    margin: auto;
+    width: 80%;
+    height: 20%;
+    
+}
+
+img{
+    width: 300px;
+    border: 7.5px dotted rgb(16, 105, 0);
+    margin: auto;
+    height: 150px;
+}
+
+.media_div, .div_1{
+    background-image: radial-gradient(rgb(210, 137, 2), rgb(40, 228, 40));
+    float: left;
+    margin: 15.13px;
+    border: 3.5px solid rgb(144, 17, 247);
+    box-shadow: 10px 10px 10px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    
+}
+p{
+    font-size: x-large;
+    font-family: monospace, cursive ;
+    color: brown;
+}
